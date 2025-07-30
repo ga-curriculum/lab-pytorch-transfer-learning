@@ -6,9 +6,9 @@
 
 ## About
 In this lab, you will:
-1. Build a feedforward neural network for classifying the Iris dataset.
-2. Experiment with different optimizers and regularization techniques.
-3. Evaluate and compare model performance.
+1. Load and preprocess the CIFAR-10 dataset.
+2. Fine-tune a pre-trained ResNet18 model for image classification.
+3. Evaluate the model's performance on the test set.
 
 
 ## Materials We Provide
