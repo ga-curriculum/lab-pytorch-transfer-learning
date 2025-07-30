@@ -21,9 +21,8 @@ In this lab, you will:
 
 ## Prerequisites
 **Before this activity, you should already be able to**:
-- Understand and implement regression modeling algorithms
 - Understand and implement classification modeling algorithms
-- Understand and interpret regression and classification metrics
+- Understand and interpret classification metrics
 - Understand the principles of feedforward neural networks
 
 
